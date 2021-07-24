@@ -1,5 +1,9 @@
 ### Data-analysis-and-visualization
 *This is a final year college project and report based on data analysis, visualization, and prediction using machine learning.*
+<br>
+<br>
+*please click on the titles to visit the site.*
+<br>
 
 [Covid-19 Dashbaord](https://datastudio.google.com/embed/u/0/reporting/84e28589-6d5a-443c-8a6f-1949473df87e/page/doJLC)
 ![image](https://user-images.githubusercontent.com/47735236/126859287-a847ce08-5710-4781-882f-c4a02115a3dd.png)
