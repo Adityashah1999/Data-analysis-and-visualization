@@ -1,0 +1,11 @@
+matplotlib==3.4.2
+matplotlib-inline==0.1.2
+numpy==1.20.3
+pandas==1.2.4
+pandas-profiling==2.10.0
+plotly==4.14.3
+plotly-express==0.4.1
+scikit-learn==0.24.2
+statsmodels==0.12.2
+streamlit==0.82.0
+streamlit-pandas-profiling==0.1.1
